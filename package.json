@@ -38,7 +38,7 @@
     "marked": "^0.3.4",
     "mixto": "^1",
     "normalize-package-data": "^2.0.0",
-    "nslog": "^2.0.0",
+    "nslog": "^3",
     "oniguruma": "^4.2.2",
     "pathwatcher": "^6.2",
     "property-accessors": "^1.1.3",
